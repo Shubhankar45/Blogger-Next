@@ -11,7 +11,7 @@ const Footer = () => {
         <span className="text-purple-400">•</span>
         <Link 
         
-          href="https://github.com/yourusername" 
+          href="https://github.com/Shubhankar45" 
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-black-700 hover:text-purple-900 transition-colors duration-300"
